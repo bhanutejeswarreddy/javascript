@@ -1,0 +1,35 @@
+.{font-size: ;
+    margin: 0cm;
+     padding: 0cm;
+}
+.main{
+     width: 100;
+     background:linear-gradient(to top,rgba(0,0,0,0.5)50%), url(249091.jpg) ;
+     background-position: center;
+     background-size: cover ;
+     height: 100px; ;
+
+}
+.navbar{
+     width: 1200px;
+     height: 75px;
+     margin: auto;
+
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px ;
+
+}
+.logo{
+       color: coral;
+
+}
+.menu{
+      width: 400px;
+      float: left;
+      height:70px ;
+      
+
+}
